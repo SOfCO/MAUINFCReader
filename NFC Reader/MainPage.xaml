@@ -7,8 +7,7 @@
     <StackLayout Spacing="20" Padding="15">
        <Label Text="NFC Data:" FontSize="Medium"/>
        <Label x:Name="NfcDataLabel" Text="Waiting for NFC..." FontSize="Small"/>
-       <Button Text="Start NFC" Clicked="OnStartNfcClicked"/>
-          <Label x:Name="StatusLabel" FontSize="16" TextColor="Green" HorizontalOptions="CenterAndExpand" Margin="10"/>
+       
    </StackLayout>
    
 
